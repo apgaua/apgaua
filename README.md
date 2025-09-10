@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/apgauasousa/)) in/apgauasousa
 
 ###
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 ![IAC](https://skillicons.dev/icons?i=terraform,ansible)
 
 ## Operating Systems
-![SO](https://skillicons.dev/icons?i=linux,mac,windows)
+![SO](https://skillicons.dev/icons?i=linux,apple,windows)
 
 ## Container orchestration
 ![Containers](https://skillicons.dev/icons?i=kubernetes,docker)
