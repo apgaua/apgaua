@@ -22,13 +22,14 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apgaua&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-| ## Cloud Providers | ## Infra as a Code |
-| ![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare) | ![IAC](https://skillicons.dev/icons?i=terraform,ansible) |
-
-
-
-## Operating Systems
-![SO](https://skillicons.dev/icons?i=linux,apple,windows)
+## Cloud Providers
+![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare)
 
 ## Container orchestration
 ![Containers](https://skillicons.dev/icons?i=kubernetes,docker)
+
+## Infra as a Code
+![IAC](https://skillicons.dev/icons?i=terraform,ansible) |
+
+## Operating Systems
+![SO](https://skillicons.dev/icons?i=linux,apple,windows)
