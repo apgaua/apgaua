@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apgaua&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-###
 ## Cloud Providers
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare)]
 ##Infra as a code
