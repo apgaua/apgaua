@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apgauasousa/)]
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apgauasousa/)
 
 ###
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Cloud Providers
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare)
 
-## Infra as a code
+## Infra as a Code
 ![IAC](https://skillicons.dev/icons?i=terraform,ansible)
 
 ## Operating Systems
