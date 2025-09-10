@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Apgaua,
+I'm Apgaua,
 <!--
 **apgaua/apgaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
