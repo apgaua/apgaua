@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,cloudflare,terraform,ansible,bash,linux&perline=5" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,cloudflare,terraform,ansible,bash,linux)](https://skillicons.dev)
