@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Apgaua,
 <!--
 **apgaua/apgaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning kubernetes, AWS, containers orchestration
+- 👯 I’m looking to collaborate on AWS and Kubernetes resources deployment
+- 💬 Ask me about AWS, Containers, Linux, AWS and Bikes
+- 😄 Pronouns: He/Him
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apgauasousa/)
 
 ###
@@ -22,6 +28,7 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apgaua&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+# SKILLS
 ## Cloud Providers
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare)
 
