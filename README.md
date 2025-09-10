@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 </div>
 
 ## Cloud Providers
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare)]
+![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare)
 
 ## Infra as a code
-[![IAC](https://skillicons.dev/icons?i=terraform,ansible)]
+![IAC](https://skillicons.dev/icons?i=terraform,ansible)
 
 ## Operating Systems
-[![SO](https://skillicons.dev/icons?i=linux,mac,windows)]
+![SO](https://skillicons.dev/icons?i=linux,mac,windows)
 
 ## Container orchestration
-[![Containers](https://skillicons.dev/icons?i=kubermetes,docker)]
+![Containers](https://skillicons.dev/icons?i=kubernetes,docker)
