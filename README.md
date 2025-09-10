@@ -25,4 +25,11 @@ Here are some ideas to get you started:
 </div>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,cloudflare,terraform,ansible,bash,linux)](https://skillicons.dev)
+## Cloud Providers
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare)]
+##Infra as a code
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible)]
+##Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,mac,windows)]
+##Container orchestration
+[![My Skills](https://skillicons.dev/icons?i=kubermetes,docker)]
