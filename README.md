@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Containers](https://skillicons.dev/icons?i=kubernetes,docker)
 
 ## Infra as a Code
-![IAC](https://skillicons.dev/icons?i=terraform,ansible) |
+![IAC](https://skillicons.dev/icons?i=terraform,ansible)
 
 ## Operating Systems
 ![SO](https://skillicons.dev/icons?i=linux,apple,windows)
