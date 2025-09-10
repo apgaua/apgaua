@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/apgauasousa/)) in/apgauasousa
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apgauasousa/)]
 
 ###
 
