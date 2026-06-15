@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning kubernetes, AWS, containers orchestration
 - 👯 I’m looking to collaborate on AWS and Kubernetes resources deployment
 - 💬 Ask me about AWS, Containers, Linux, AWS and Bikes
 - 😄 Pronouns: He/Him
